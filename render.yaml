@@ -1,0 +1,6 @@
+services:
+  - type: web
+    name: satvashil-portfolio
+    env: static
+    buildCommand: ""
+    staticPublishPath: .
